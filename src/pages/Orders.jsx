@@ -1,5 +1,9 @@
 import { useContext } from 'react';
+<<<<<<< HEAD
 import Title from '../components/Title';
+=======
+import Title from '../Components/Title';
+>>>>>>> 06b5cad2a09d8df0800bb0c523ca0be2d50dc4e4
 import { ShopContext } from '../Context/ShopContext';
 
 const Orders = () => {
@@ -78,4 +82,8 @@ const Orders = () => {
   );
 };
 
+<<<<<<< HEAD
 export default Orders;
+=======
+export default Orders;
+>>>>>>> 06b5cad2a09d8df0800bb0c523ca0be2d50dc4e4

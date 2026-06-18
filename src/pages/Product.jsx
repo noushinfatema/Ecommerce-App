@@ -2,7 +2,11 @@ import { useContext, useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { ShopContext } from '../Context/ShopContext';
 import { assets } from '../assets/assets';
+<<<<<<< HEAD
 import RelatedProducts from '../components/RelatedProducts';
+=======
+import RelatedProducts from '../Components/RelatedProducts';
+>>>>>>> 06b5cad2a09d8df0800bb0c523ca0be2d50dc4e4
 
 const Product = () => {
   const { productId } = useParams();
@@ -153,4 +157,8 @@ const Product = () => {
   );
 };
 
+<<<<<<< HEAD
 export default Product;
+=======
+export default Product;
+>>>>>>> 06b5cad2a09d8df0800bb0c523ca0be2d50dc4e4

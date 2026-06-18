@@ -44,7 +44,9 @@ const Footer = () => {
                 >
                   Contact US
                 </li>
-                <li className='cursor-pointer hover:text-black transition-colors'>
+                <li 
+                // onClick={() => handleNavigation('/contact')}
+                className='cursor-pointer hover:text-black transition-colors'>
                   Privacy Policy
                 </li>
             </ul>
