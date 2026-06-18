@@ -9,9 +9,9 @@ import Cart from './Pages/Cart';
 import Login from './pages/Login';
 import PlaceOrder from './pages/PlaceOrder';
 import Orders from './Pages/Orders';
-import Navbar from './Components/Navbar';
-import Footer from './Components/Footer';
-import SearchBar from './Components/SearchBar';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
+import SearchBar from './components/SearchBar';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
