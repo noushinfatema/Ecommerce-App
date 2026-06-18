@@ -1,7 +1,12 @@
 import { useContext, useState } from 'react';
 import { assets } from '../assets/assets';
+<<<<<<< HEAD
+import CartTotal from '../components/CartTotal';
+import Title from '../components/Title';
+=======
 import CartTotal from '../Components/CartTotal';
 import Title from '../Components/Title';
+>>>>>>> 06b5cad2a09d8df0800bb0c523ca0be2d50dc4e4
 import { ShopContext } from '../Context/ShopContext';
 
 const PlaceOrder = () => {
@@ -143,4 +148,8 @@ const PlaceOrder = () => {
   );
 };
 
+<<<<<<< HEAD
 export default PlaceOrder;
+=======
+export default PlaceOrder;
+>>>>>>> 06b5cad2a09d8df0800bb0c523ca0be2d50dc4e4

@@ -35,4 +35,8 @@ export default [
       ],
     },
   },
+<<<<<<< HEAD
 ]
+=======
+]
+>>>>>>> 06b5cad2a09d8df0800bb0c523ca0be2d50dc4e4
